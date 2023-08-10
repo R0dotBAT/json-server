@@ -1,95 +1,98 @@
 [
-{
-  "id": 11,
-  "title": "perfume Oil",
-  "description": "Mega Discount, Impression of A...",
-  "price": 13,
-  "discountPercentage": 8.4,
-  "rating": 4.26,
-  "stock": 65,
-  "brand": "Impression of Acqua Di Gio",
-  "category": "fragrances",
-  "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
-  "images": [
-    "https://i.dummyjson.com/data/products/11/1.jpg",
-    "https://i.dummyjson.com/data/products/11/2.jpg",
-    "https://i.dummyjson.com/data/products/11/3.jpg",
-    "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
-  ]
-},
   {
-  "id": 9,
-  "title": "Infinix INBOOK",
-  "description": "Infinix Inbook X1 Ci3 10th 8GB...",
-  "price": 1099,
-  "discountPercentage": 11.83,
-  "rating": 4.54,
-  "stock": 96,
-  "brand": "Infinix",
-  "category": "laptops",
-  "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
-  "images": [
-    "https://i.dummyjson.com/data/products/9/1.jpg",
-    "https://i.dummyjson.com/data/products/9/2.png",
-    "https://i.dummyjson.com/data/products/9/3.png",
-    "https://i.dummyjson.com/data/products/9/4.jpg",
-    "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
-  ]
-},
+    "author": "Gambardella, Matthew",
+    "title": "XML Developer's Guide",
+    "genre": "Computer",
+    "price": 44.95,
+    "publish_date": "2000-10-01",
+    "description": "An in-depth look at creating applica  with XML."
+  },
   {
-  "id": 8,
-  "title": "Microsoft Surface Laptop 4",
-  "description": "Style and speed. Stand out on ...",
-  "price": 1499,
-  "discountPercentage": 10.23,
-  "rating": 4.43,
-  "stock": 68,
-  "brand": "Microsoft Surface",
-  "category": "laptops",
-  "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
-  "images": [
-    "https://i.dummyjson.com/data/products/8/1.jpg",
-    "https://i.dummyjson.com/data/products/8/2.jpg",
-    "https://i.dummyjson.com/data/products/8/3.jpg",
-    "https://i.dummyjson.com/data/products/8/4.jpg",
-    "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
-  ]
-},
+    "author": "Ralls, Kim",
+    "title": "Midnight Rain",
+    "genre": "Fantasy",
+    "price": 5.95,
+    "publish_date": "2000-12-16",
+    "description": "A former architect battles corporate     of the world."
+  },
   {
-  "id": 12,
-  "title": "Brown Perfume",
-  "description": "Royal_Mirage Sport Brown Perfu...",
-  "price": 40,
-  "discountPercentage": 15.66,
-  "rating": 4,
-  "stock": 52,
-  "brand": "Royal_Mirage",
-  "category": "fragrances",
-  "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
-  "images": [
-    "https://i.dummyjson.com/data/products/12/1.jpg",
-    "https://i.dummyjson.com/data/products/12/2.jpg",
-    "https://i.dummyjson.com/data/products/12/3.png",
-    "https://i.dummyjson.com/data/products/12/4.jpg",
-    "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
-  ]
-},
+    "author": "Corets, Eva",
+    "title": "Maeve Ascendant",
+    "genre": "Fantasy",
+    "price": 5.95,
+    "publish_date": "2000-11-17",
+    "description": "After the collapse of a nanotechnolog foundation for a new society."
+  },
   {
-  "id": 10,
-  "title": "HP Pavilion 15-DK1056WM",
-  "description": "HP Pavilion 15-DK1056WM Gaming...",
-  "price": 1099,
-  "discountPercentage": 6.18,
-  "rating": 4.43,
-  "stock": 89,
-  "brand": "HP Pavilion",
-  "category": "laptops",
-  "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
-  "images": [
-    "https://i.dummyjson.com/data/products/10/1.jpg",
-    "https://i.dummyjson.com/data/products/10/2.jpg",
-    "https://i.dummyjson.com/data/products/10/3.jpg",
-    "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
-  ]
-}
+    "author": "Corets, Eva",
+    "title": "Oberon's Legacy",
+    "genre": "Fantasy",
+    "price": 5.95,
+    "publish_date": "2001-03-10",
+    "description": "In post-apocalypse England, the  Ascendant."
+  },
+  {
+    "author": "Corets, Eva",
+    "title": "The Sundered Grail",
+    "genre": "Fantasy",
+    "price": 5.95,
+    "publish_date": "2001-09-10",
+    "description": "The two daun's Legacy."
+  },
+  {
+    "author": "Randall, Cynthia",
+    "title": "Lover Birds",
+    "genre": "Romance",
+    "price": 4.95,
+    "publish_date": "2000-09-02",
+    "description": "When Carla meets Paul at an ornithology"
+  },
+  {
+    "author": "Thurman, Paula",
+    "title": "Splish Splash",
+    "genre": "Romance",
+    "price": 4.95,
+    "publish_date": "2000-11-02",
+    "description": "A deep sea diver finds true lo"
+  },
+  {
+    "author": "Knorr, Stefan",
+    "title": "Creepy Crawlies",
+    "genre": "Horror",
+    "price": 4.95,
+    "publish_date": "2000-12-06",
+    "description": "An anthology of horror stories about roaches,"
+  },
+  {
+    "author": "Kress, Peter",
+    "title": "Paradox Lost",
+    "genre": "Science Fiction",
+    "price": 6.95,
+    "publish_date": "2000-11-02",
+    "description": "After an inadvertant trip throughing quantum."
+  },
+  {
+    "author": "O'Brien, Tim",
+    "title": "Microsoft .NET: The Programming Bible",
+    "genre": "Computer",
+    "price": 36.95,
+    "publish_date": "2000-12-09",
+    "description": "Microsoft's .NET initiative is explored"
+  },
+  {
+    "author": "O'Brien, Tim",
+    "title": "MSXML3: A Comprehensive Guide",
+    "genre": "Computer",
+    "price": 36.95,
+    "publish_date": "2000-12-01",
+    "description": "The Microsoft MSXML3 parser is covered inM i"
+  },
+  {
+    "author": "Galos, Mike",
+    "title": "Visual Studio 7: A Comprehensive Guide",
+    "genre": "Computer",
+    "price": 49.95,
+    "publish_date": "2001-04-16",
+    "description": "Microsoft Visual Studio 7 is explored in depth"
+  }
 ]
