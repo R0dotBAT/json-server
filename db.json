@@ -1,4 +1,5 @@
-[
+{
+"books": [
   {
     "id": 1,
     "author": "Gambardella, Matthew",
@@ -108,3 +109,4 @@
     "description": "Microsoft Visual Studio 7 is explored in depth"
   }
 ]
+}
